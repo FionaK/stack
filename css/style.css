@@ -185,7 +185,7 @@ p.small {
 	color: black;
 	padding: 10px;
 	position: absolute;
-	left:500px;
+	left:35%;
 	text-transform: uppercase;
 	font-weight: 750;
 	font-size: 0.7em;
@@ -198,7 +198,7 @@ p.small {
 	border-radius: 2px;
 	color: black;
 	position: absolute;
-	left:800px;
+	left:55%;
 	padding: 10px;
 	text-transform: uppercase;
 	font-weight: 750;
